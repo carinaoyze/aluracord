@@ -55,7 +55,7 @@ function Titulo(props) {
   //         <div>
   //             <GlobalStyle />
   //             <Titulo tag="h2">Boas vindas de volta!</Titulo>
-  //             <h2>Discord - Alura Matrix</h2>
+  //             <h2>Discord - Alura Space</h2>
   //         </div>
   //     )
   // }
